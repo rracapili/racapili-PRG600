@@ -1,0 +1,16 @@
+FirstName		LastName		Phone 
+John 			Smith			555-123-4567
+Jane 			Doe			555-987-6543
+Michael 		Johnson		555-555-5555
+Emily 		Davis			555-321-4321
+David 		Lee			555-777-8888
+Lisa 			Chen			555-999-0000
+Steven 		Wilson		555-444-3333
+Samantha		Brown			555-222-1111
+William		Jones			555-666-7777
+Sarah			Miller		555-888-9999
+Adam 			Taylor		555-444-5555
+Karen 		Thomas		555-222-3333
+Kevin 		Anderson		555-111-2222
+Ashley 		Garcia		555-777-6666
+Robert 		Rodriguez		555-888-7777

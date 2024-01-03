@@ -1,0 +1,18 @@
+INFO:root:.\check-lab6.py 28a91ca5840d32645504b88395ff4a54
+INFO:root:logging test
+INFO:root:Test Run: 2023-11-02 15:26:59.129811
+INFO:root:lab6a.py: test successful.
+INFO:root:lab6a.py b382b3e8e8990acc3d6211e0087ac547
+INFO:root:done.
+INFO:root:lab6b.py: test successful.
+INFO:root:lab6b.py 7cdab70612aaddc6b7477eff8cd6d624
+INFO:root:done.
+INFO:root:lab6c.py: test successful.
+INFO:root:lab6c.py f6b87e894b310f3040441d29d30c73a2
+INFO:root:done.
+INFO:root:lab6d.py: test successful.
+INFO:root:lab6d.py 991027a8251e28cc6b8afe63b58b8d1f
+INFO:root:done.
+INFO:root:challenge6.py: test successful.
+INFO:root:challenge6.py 0fc2823b1944e85eb3594692fef03471
+INFO:root:done.

@@ -1,0 +1,26 @@
+**************************************
+Student Number: 152344222
+First Name: Ronald
+Last Name: Capili
+Email: radcapili@myseneca.ca
+Academic integrity confirmation: Y
+Time: 2023-12-05 02:02:17.496369
+I understand, that I still have to meet the blackbord submission timeline to get credit for my work
+Computer Name: RA-GL502VMK
+IP Address: 192.168.230.1
+Result File Hash: 93423b5407f2f98a65a25c2ea12d8eea85d3aa84ddebd4714646207e3e5551f5
+**************************************
+
+
+**************************************
+**************************************
+Percentage Difference 0.0
+**************************************
+**************************************
+
+
+**************************************
+**************************************
+Points Earned: 15
+**************************************
+**************************************

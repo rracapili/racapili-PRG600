@@ -1,0 +1,29 @@
+Assignment1-Coverage:
+
+All Items List:
+- All Grocery Items were not provided, so I have taken the initiative to add a few other items that would be within a grocery store, while also taking the sample output into consideration. 
+-- This will control the scope of what items will be accepted. 
+- Can add new items if you add items on the list within the code. 
+
+Discounted Items List:
+- Can add new items if you add items on the list within the code. 
+
+Program Execution:
+- Can exit without any input / no receipt is printed. 
+- Will only print receipt when there are items in Number Items List.
+
+Item Name:
+- Checking if input is within All Items List or not.
+
+Price:
+- Checking if input is not a valid string for a float. 
+- Checking if input is 0. 
+- Unrestricted range.
+
+Item Number:
+- Checking if input is numeric or not. 
+- Checking if input is 0.
+- Unrestricted range.
+
+Printing:
+- Alignment set for the receipt printout. 

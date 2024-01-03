@@ -1,0 +1,18 @@
+INFO:root:.\check-lab8.py 2e3a62abaa0d41d3e7f27498be1297ab
+INFO:root:logging test
+INFO:root:Test Run: 2023-11-24 10:17:49.186586
+INFO:root:lab8a.py: test successful.
+INFO:root:lab8a.py e278233ca492d7a71821e8cba171109d
+INFO:root:done.
+INFO:root:lab8b.py: test successful.
+INFO:root:lab8b.py 3092e62b0fe86d12ca9a9a0c517b0e96
+INFO:root:done.
+INFO:root:lab8c.py: test successful.
+INFO:root:lab8c.py 3f6246be89bb62fbe2975cff406637d8
+INFO:root:done.
+INFO:root:lab8d.py: test successful.
+INFO:root:lab8d.py b8e57a0d118bc4dfd54cb3ea5d5e858d
+INFO:root:done.
+INFO:root:lab8e.py: test successful.
+INFO:root:lab8e.py f19708f5a24e80e5114f9281d6fd190e
+INFO:root:done.
